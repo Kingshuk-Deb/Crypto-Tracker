@@ -14,7 +14,10 @@
 # Search Stats about your Favourite Crypto 👆
 
 <br/>
-<br/>
+
+# Functions of the website :
+- You can search for all the different cryptos and find about their current status
+- As you click on the cryto you are automatically redirected to coingecko for further information on the crypto
 
 # Available Scripts
 
@@ -25,4 +28,4 @@ In the project directory, you can run:
 - Runs the app in the development mode.
 - Open http://localhost:3000 to view it in the browser.
 
-`P.S. -> Design & Working inspired from Brain Codex`
+`P.S. -> Design inspired from Brain Codex and the API used here was provided by Coingecko`
