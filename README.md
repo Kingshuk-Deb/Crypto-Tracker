@@ -13,6 +13,9 @@
 
 # Search Stats about your Favourite Crypto 👆
 
+<br/>
+<br/>
+
 # Available Scripts
 
 In the project directory, you can run:
